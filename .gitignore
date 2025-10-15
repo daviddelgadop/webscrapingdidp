@@ -1,0 +1,89 @@
+# ==========================
+# ENVIRONNEMENT & DÉPENDANCES
+# ==========================
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+bkp
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# ==========================
+# OUTILS & CONFIGURATION
+# ==========================
+.pytest_cache/
+.coverage
+.cache/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+htmlcov/
+
+.vscode/
+.idea/
+*.iml
+
+# ==========================
+# DONNÉES & BASE JSON
+# ==========================
+ecole_data/
+data/
+database/
+*.json
+
+# ==========================
+# BUILDS & PACKAGING
+# ==========================
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================
+# DOCUMENTATION
+# ==========================
+docs/_build/
+*.pdf
+*.docx
+*.zip
+*.rar
+
+# ==========================
+# SYSTEME / OS
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# ENVIRONNEMENT PERSONNEL
+# ==========================
+config.local.json
+.env
+*.secret
+*.key
+*.pem
