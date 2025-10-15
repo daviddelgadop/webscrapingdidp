@@ -1,0 +1,409 @@
+[
+  {
+    "name": "World Liberty Financial",
+    "symbol": "WLFI",
+    "price": "$0.1397",
+    "market_cap": "$3.43B",
+    "stats": {
+      "fdv": "$13.97B",
+      "volume": "$208.73M",
+      "ratio": 0.2455261274158912
+    }
+  },
+  {
+    "name": "Aster",
+    "symbol": "ASTER",
+    "price": "$1.38",
+    "market_cap": "$2.79B",
+    "stats": {
+      "fdv": "$11.07B",
+      "volume": "$981.28M",
+      "ratio": 0.25203252032520324
+    }
+  },
+  {
+    "name": "MemeCore",
+    "symbol": "M",
+    "price": "$2.00",
+    "market_cap": "$2.08B",
+    "stats": {
+      "fdv": "$20.09B",
+      "volume": "$14.39M",
+      "ratio": 0.10353409656545545
+    }
+  },
+  {
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "price": "$0.9378",
+    "market_cap": "$2.07B",
+    "stats": {
+      "fdv": "$9.37B",
+      "volume": "$190.05M",
+      "ratio": 0.22091782283884737
+    }
+  },
+  {
+    "name": "Pi",
+    "symbol": "PI",
+    "price": "$0.2095",
+    "market_cap": "$1.73B",
+    "stats": {
+      "fdv": "$20.95B",
+      "volume": "$25.1M",
+      "ratio": 0.08257756563245823
+    }
+  },
+  {
+    "name": "GateToken",
+    "symbol": "GT",
+    "price": "$16.00",
+    "market_cap": "$1.28B",
+    "stats": {
+      "fdv": "$4.8B",
+      "volume": "$9.63M",
+      "ratio": 0.26666666666666666
+    }
+  },
+  {
+    "name": "OFFICIAL TRUMP",
+    "symbol": "TRUMP",
+    "price": "$6.07",
+    "market_cap": "$1.21B",
+    "stats": {
+      "fdv": "$6.07B",
+      "volume": "$323.13M",
+      "ratio": 0.19934102141680396
+    }
+  },
+  {
+    "name": "Plasma",
+    "symbol": "XPL",
+    "price": "$0.4765",
+    "market_cap": "$857.7M",
+    "stats": {
+      "fdv": "$4.76B",
+      "volume": "$1.03B",
+      "ratio": 0.1801890756302521
+    }
+  },
+  {
+    "name": "MYX Finance",
+    "symbol": "MYX",
+    "price": "$3.22",
+    "market_cap": "$665.15M",
+    "stats": {
+      "fdv": "$3.22B",
+      "volume": "$52.73M",
+      "ratio": 0.20656832298136646
+    }
+  },
+  {
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "price": "$1.83",
+    "market_cap": "$540.76M",
+    "stats": {
+      "fdv": "$1.83B",
+      "volume": "$43.86M",
+      "ratio": 0.29549726775956286
+    }
+  },
+  {
+    "name": "EigenLayer",
+    "symbol": "EIGEN",
+    "price": "$1.25",
+    "market_cap": "$484.05M",
+    "stats": {
+      "fdv": "$2.2B",
+      "volume": "$112.47M",
+      "ratio": 0.2200227272727273
+    }
+  },
+  {
+    "name": "0G",
+    "symbol": "0G",
+    "price": "$2.06",
+    "market_cap": "$439.6M",
+    "stats": {
+      "fdv": "$2.06B",
+      "volume": "$58.02M",
+      "ratio": 0.2133980582524272
+    }
+  },
+  {
+    "name": "Falcon Finance",
+    "symbol": "FF",
+    "price": "$0.1411",
+    "market_cap": "$330.28M",
+    "stats": {
+      "fdv": "$1.41B",
+      "volume": "$144.11M",
+      "ratio": 0.23424113475177305
+    }
+  },
+  {
+    "name": "Walrus",
+    "symbol": "WAL",
+    "price": "$0.2307",
+    "market_cap": "$341.28M",
+    "stats": {
+      "fdv": "$1.15B",
+      "volume": "$88.69M",
+      "ratio": 0.29676521739130435
+    }
+  },
+  {
+    "name": "Linea",
+    "symbol": "LINEA",
+    "price": "$0.01950",
+    "market_cap": "$302.02M",
+    "stats": {
+      "fdv": "$1.4B",
+      "volume": "$104.95M",
+      "ratio": 0.21572857142857144
+    }
+  },
+  {
+    "name": "KAITO",
+    "symbol": "KAITO",
+    "price": "$1.09",
+    "market_cap": "$264.1M",
+    "stats": {
+      "fdv": "$1.09B",
+      "volume": "$19.68M",
+      "ratio": 0.2422935779816514
+    }
+  },
+  {
+    "name": "Berachain",
+    "symbol": "BERA",
+    "price": "$1.83",
+    "market_cap": "$236.08M",
+    "stats": {
+      "fdv": "$936.31M",
+      "volume": "$62.75M",
+      "ratio": 0.2521387147419124
+    }
+  },
+  {
+    "name": "MX Token",
+    "symbol": "MX",
+    "price": "$2.44",
+    "market_cap": "$222.66M",
+    "stats": {
+      "fdv": "$1.01B",
+      "volume": "$12.16M",
+      "ratio": 0.22045544554455446
+    }
+  },
+  {
+    "name": "Movement",
+    "symbol": "MOVE",
+    "price": "$0.08010",
+    "market_cap": "$220.29M",
+    "stats": {
+      "fdv": "$801.08M",
+      "volume": "$27M",
+      "ratio": 0.2749912617965746
+    }
+  },
+  {
+    "name": "Sahara AI",
+    "symbol": "SAHARA",
+    "price": "$0.07828",
+    "market_cap": "$179.48M",
+    "stats": {
+      "fdv": "$782.8M",
+      "volume": "$26.74M",
+      "ratio": 0.22927950945324477
+    }
+  },
+  {
+    "name": "ChainOpera AI",
+    "symbol": "COAI",
+    "price": "$15.98",
+    "market_cap": "$3.14B",
+    "stats": {
+      "fdv": "$15.98B",
+      "volume": "$378M",
+      "ratio": 0.1964956195244055
+    }
+  },
+  {
+    "name": "Zeebu",
+    "symbol": "ZBU",
+    "price": "$1.68",
+    "market_cap": "$697.73M",
+    "stats": {
+      "fdv": "$8.43B",
+      "volume": "$318.56K",
+      "ratio": 0.08276749703440095
+    }
+  },
+  {
+    "name": "APX",
+    "symbol": "APX",
+    "price": "$1.25",
+    "market_cap": "$667.45M",
+    "stats": {
+      "fdv": "$4.98B",
+      "volume": "$732.24K",
+      "ratio": 0.13402610441767068
+    }
+  },
+  {
+    "name": "Humanity Protocol",
+    "symbol": "H",
+    "price": "$0.1324",
+    "market_cap": "$280.79M",
+    "stats": {
+      "fdv": "$1.32B",
+      "volume": "$111.46M",
+      "ratio": 0.21271969696969698
+    }
+  },
+  {
+    "name": "Saros",
+    "symbol": "SAROS",
+    "price": "$0.2554",
+    "market_cap": "$272.04M",
+    "stats": {
+      "fdv": "$2.55B",
+      "volume": "$28.92M",
+      "ratio": 0.10668235294117646
+    }
+  },
+  {
+    "name": "Nexusmind",
+    "symbol": "NMD",
+    "price": "$19.03",
+    "market_cap": "$195.29M",
+    "stats": {
+      "fdv": "$1.9B",
+      "volume": "$0 0",
+      "ratio": 0.10278421052631578
+    }
+  },
+  {
+    "name": "SoSoValue",
+    "symbol": "SOSO",
+    "price": "$0.7508",
+    "market_cap": "$206.3M",
+    "stats": {
+      "fdv": "$750.82M",
+      "volume": "$12.8M",
+      "ratio": 0.2747662555605871
+    }
+  },
+  {
+    "name": "UPCX",
+    "symbol": "UPC",
+    "price": "$2.01",
+    "market_cap": "$188.78M",
+    "stats": {
+      "fdv": "$1.56B",
+      "volume": "$690.38K",
+      "ratio": 0.12101282051282052
+    }
+  },
+  {
+    "name": "Avantis",
+    "symbol": "AVNT",
+    "price": "$0.5853",
+    "market_cap": "$151.14M",
+    "stats": {
+      "fdv": "$585.34M",
+      "volume": "$89.83M",
+      "ratio": 0.25820890422660336
+    }
+  },
+  {
+    "name": "Succinct",
+    "symbol": "PROVE",
+    "price": "$0.7841",
+    "market_cap": "$152.9M",
+    "stats": {
+      "fdv": "$784.12M",
+      "volume": "$122.24M",
+      "ratio": 0.19499566392899045
+    }
+  },
+  {
+    "name": "Lombard",
+    "symbol": "BARD",
+    "price": "$0.6728",
+    "market_cap": "$151.4M",
+    "stats": {
+      "fdv": "$672.89M",
+      "volume": "$38.8M",
+      "ratio": 0.2249996284682489
+    }
+  },
+  {
+    "name": "ApeX Protocol",
+    "symbol": "APEX",
+    "price": "$0.9237",
+    "market_cap": "$123.16M",
+    "stats": {
+      "fdv": "$461.86M",
+      "volume": "$20.55M",
+      "ratio": 0.2666608929112718
+    }
+  },
+  {
+    "name": "Fellaz",
+    "symbol": "FLZ",
+    "price": "$0.2664",
+    "market_cap": "$125.71M",
+    "stats": {
+      "fdv": "$532.82M",
+      "volume": "$3.37M",
+      "ratio": 0.2359333358357419
+    }
+  },
+  {
+    "name": "Grass",
+    "symbol": "GRASS",
+    "price": "$0.4979",
+    "market_cap": "$121.44M",
+    "stats": {
+      "fdv": "$497.91M",
+      "volume": "$35.7M",
+      "ratio": 0.24389949990962223
+    }
+  },
+  {
+    "name": "YZY MONEY",
+    "symbol": "YZY",
+    "price": "$0.4045",
+    "market_cap": "$121.37M",
+    "stats": {
+      "fdv": "$404.58M",
+      "volume": "$5.4M",
+      "ratio": 0.2999901132038163
+    }
+  },
+  {
+    "name": "BNB Attestation Service",
+    "symbol": "BAS",
+    "price": "$0.08202",
+    "market_cap": "$205.05M",
+    "stats": {
+      "fdv": "$820.22M",
+      "volume": "$94.04M",
+      "ratio": 0.2499939040745166
+    }
+  },
+  {
+    "name": "SLT",
+    "symbol": "SLT",
+    "price": "$14.20",
+    "market_cap": "$120.72M",
+    "stats": {
+      "fdv": "$1.42B",
+      "volume": "$276.37K",
+      "ratio": 0.08501408450704226
+    }
+  }
+]

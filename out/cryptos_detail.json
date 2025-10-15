@@ -1,0 +1,3302 @@
+[
+  {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price": "$111,014.18",
+    "market_cap": "$2.21T",
+    "stats": {
+      "fdv": "$2.33T",
+      "volume": "$71.02B",
+      "ratio": 0.9484978540772532
+    }
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price": "$3,977.79",
+    "market_cap": "$477.83B",
+    "stats": {
+      "fdv": "$477.83B",
+      "volume": "$48.43B",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Tether",
+    "symbol": "USDT",
+    "price": "$1.00",
+    "market_cap": "$180.7B",
+    "stats": {
+      "fdv": "$184.1B",
+      "volume": "$168.13B",
+      "ratio": 0.9815317762085823
+    }
+  },
+  {
+    "name": "BNB",
+    "symbol": "BNB",
+    "price": "$1,156.34",
+    "market_cap": "$160.94B",
+    "stats": {
+      "fdv": "$160.94B",
+      "volume": "$6.09B",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "XRP",
+    "symbol": "XRP",
+    "price": "$2.39",
+    "market_cap": "$143.41B",
+    "stats": {
+      "fdv": "$239.36B",
+      "volume": "$5.33B",
+      "ratio": 0.599139371657754
+    }
+  },
+  {
+    "name": "Solana",
+    "symbol": "SOL",
+    "price": "$193.35",
+    "market_cap": "$105.7B",
+    "stats": {
+      "fdv": "$118.3B",
+      "volume": "$9.54B",
+      "ratio": 0.893491124260355
+    }
+  },
+  {
+    "name": "USDC",
+    "symbol": "USDC",
+    "price": "$1.00",
+    "market_cap": "$76.14B",
+    "stats": {
+      "fdv": "$76.14B",
+      "volume": "$20.78B",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "TRON",
+    "symbol": "TRX",
+    "price": "$0.3171",
+    "market_cap": "$30.02B",
+    "stats": {
+      "fdv": "$30.02B",
+      "volume": "$1.15B",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "price": "$0.1955",
+    "market_cap": "$29.6B",
+    "stats": {
+      "fdv": "$29.6B",
+      "volume": "$2.8B",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Cardano",
+    "symbol": "ADA",
+    "price": "$0.6651",
+    "market_cap": "$23.83B",
+    "stats": {
+      "fdv": "$29.93B",
+      "volume": "$1.2B",
+      "ratio": 0.7961911125960575
+    }
+  },
+  {
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "price": "$38.00",
+    "market_cap": "$12.79B",
+    "stats": {
+      "fdv": "$38B",
+      "volume": "$552.28M",
+      "ratio": 0.33657894736842103
+    }
+  },
+  {
+    "name": "Ethena USDe",
+    "symbol": "USDe",
+    "price": "$1.00",
+    "market_cap": "$12.47B",
+    "stats": {
+      "fdv": "$12.47B",
+      "volume": "$326.46M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "price": "$17.91",
+    "market_cap": "$12.14B",
+    "stats": {
+      "fdv": "$17.91B",
+      "volume": "$925.59M",
+      "ratio": 0.6778336125069794
+    }
+  },
+  {
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "price": "$519.89",
+    "market_cap": "$10.36B",
+    "stats": {
+      "fdv": "$10.91B",
+      "volume": "$357.67M",
+      "ratio": 0.9495875343721356
+    }
+  },
+  {
+    "name": "Stellar",
+    "symbol": "XLM",
+    "price": "$0.3218",
+    "market_cap": "$10.29B",
+    "stats": {
+      "fdv": "$16.09B",
+      "volume": "$239.38M",
+      "ratio": 0.6395276569297701
+    }
+  },
+  {
+    "name": "Sui",
+    "symbol": "SUI",
+    "price": "$2.66",
+    "market_cap": "$9.67B",
+    "stats": {
+      "fdv": "$26.69B",
+      "volume": "$1.27B",
+      "ratio": 0.3623079805170476
+    }
+  },
+  {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "price": "$21.72",
+    "market_cap": "$9.17B",
+    "stats": {
+      "fdv": "$15.55B",
+      "volume": "$735.44M",
+      "ratio": 0.5897106109324759
+    }
+  },
+  {
+    "name": "UNUS SED LEO",
+    "symbol": "LEO",
+    "price": "$9.66",
+    "market_cap": "$8.91B",
+    "stats": {
+      "fdv": "$9.52B",
+      "volume": "$1.08M",
+      "ratio": 0.9359243697478992
+    }
+  },
+  {
+    "name": "Hedera",
+    "symbol": "HBAR",
+    "price": "$0.1792",
+    "market_cap": "$7.59B",
+    "stats": {
+      "fdv": "$8.96B",
+      "volume": "$276.04M",
+      "ratio": 0.8470982142857143
+    }
+  },
+  {
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "price": "$94.19",
+    "market_cap": "$7.19B",
+    "stats": {
+      "fdv": "$7.91B",
+      "volume": "$811.77M",
+      "ratio": 0.9089759797724399
+    }
+  },
+  {
+    "name": "Shiba Inu",
+    "symbol": "SHIB",
+    "price": "$0.00001024",
+    "market_cap": "$6.03B",
+    "stats": {
+      "fdv": "$6.04B",
+      "volume": "$174.36M",
+      "ratio": 0.9983443708609272
+    }
+  },
+  {
+    "name": "Mantle",
+    "symbol": "MNT",
+    "price": "$1.81",
+    "market_cap": "$5.89B",
+    "stats": {
+      "fdv": "$11.26B",
+      "volume": "$431.22M",
+      "ratio": 0.5230905861456483
+    }
+  },
+  {
+    "name": "Monero",
+    "symbol": "XMR",
+    "price": "$311.02",
+    "market_cap": "$5.73B",
+    "stats": {
+      "fdv": "$5.73B",
+      "volume": "$250.02M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Toncoin",
+    "symbol": "TON",
+    "price": "$2.20",
+    "market_cap": "$5.54B",
+    "stats": {
+      "fdv": "$11.32B",
+      "volume": "$170.66M",
+      "ratio": 0.48939929328621906
+    }
+  },
+  {
+    "name": "Cronos",
+    "symbol": "CRO",
+    "price": "$0.1555",
+    "market_cap": "$5.42B",
+    "stats": {
+      "fdv": "$15.55B",
+      "volume": "$45.58M",
+      "ratio": 0.3485530546623794
+    }
+  },
+  {
+    "name": "Dai",
+    "symbol": "DAI",
+    "price": "$1.00",
+    "market_cap": "$5.36B",
+    "stats": {
+      "fdv": "$5.36B",
+      "volume": "$154.03M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "price": "$3.11",
+    "market_cap": "$5.06B",
+    "stats": {
+      "fdv": "$5.06B",
+      "volume": "$285.15M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "price": "$413.72",
+    "market_cap": "$4.17B",
+    "stats": {
+      "fdv": "$8.68B",
+      "volume": "$539.57M",
+      "ratio": 0.4804147465437788
+    }
+  },
+  {
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "price": "$6.48",
+    "market_cap": "$4.08B",
+    "stats": {
+      "fdv": "$6.48B",
+      "volume": "$285.24M",
+      "ratio": 0.6296296296296297
+    }
+  },
+  {
+    "name": "Zcash",
+    "symbol": "ZEC",
+    "price": "$237.70",
+    "market_cap": "$3.86B",
+    "stats": {
+      "fdv": "$4.99B",
+      "volume": "$677.03M",
+      "ratio": 0.7735470941883767
+    }
+  },
+  {
+    "name": "OKB",
+    "symbol": "OKB",
+    "price": "$176.56",
+    "market_cap": "$3.7B",
+    "stats": {
+      "fdv": "$3.7B",
+      "volume": "$129.27M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Aave",
+    "symbol": "AAVE",
+    "price": "$238.35",
+    "market_cap": "$3.63B",
+    "stats": {
+      "fdv": "$3.81B",
+      "volume": "$389.54M",
+      "ratio": 0.952755905511811
+    }
+  },
+  {
+    "name": "World Liberty Financial",
+    "symbol": "WLFI",
+    "price": "$0.1372",
+    "market_cap": "$3.37B",
+    "stats": {
+      "fdv": "$13.72B",
+      "volume": "$213.94M",
+      "ratio": 0.2456268221574344
+    }
+  },
+  {
+    "name": "Bitget Token",
+    "symbol": "BGB",
+    "price": "$4.76",
+    "market_cap": "$3.32B",
+    "stats": {
+      "fdv": "$4.38B",
+      "volume": "$230.66M",
+      "ratio": 0.7579908675799086
+    }
+  },
+  {
+    "name": "Ethena",
+    "symbol": "ENA",
+    "price": "$0.4235",
+    "market_cap": "$3.03B",
+    "stats": {
+      "fdv": "$6.35B",
+      "volume": "$470.49M",
+      "ratio": 0.47716535433070867
+    }
+  },
+  {
+    "name": "Pepe",
+    "symbol": "PEPE",
+    "price": "$0.0 5 7134",
+    "market_cap": "$3B",
+    "stats": {
+      "fdv": "$3B",
+      "volume": "$555.89M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "NEAR Protocol",
+    "symbol": "NEAR",
+    "price": "$2.31",
+    "market_cap": "$2.88B",
+    "stats": {
+      "fdv": "$2.95B",
+      "volume": "$290.01M",
+      "ratio": 0.976271186440678
+    }
+  },
+  {
+    "name": "Aster",
+    "symbol": "ASTER",
+    "price": "$1.34",
+    "market_cap": "$2.71B",
+    "stats": {
+      "fdv": "$10.75B",
+      "volume": "$994.1M",
+      "ratio": 0.25209302325581395
+    }
+  },
+  {
+    "name": "World Liberty Financial USD",
+    "symbol": "USD1",
+    "price": "$1.00",
+    "market_cap": "$2.68B",
+    "stats": {
+      "fdv": "$2.68B",
+      "volume": "$480.26M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "price": "$16.21",
+    "market_cap": "$2.49B",
+    "stats": {
+      "fdv": "$3.41B",
+      "volume": "$112.93M",
+      "ratio": 0.7302052785923754
+    }
+  },
+  {
+    "name": "Aptos",
+    "symbol": "APT",
+    "price": "$3.44",
+    "market_cap": "$2.47B",
+    "stats": {
+      "fdv": "$4.06B",
+      "volume": "$163.94M",
+      "ratio": 0.6083743842364533
+    }
+  },
+  {
+    "name": "Ondo",
+    "symbol": "ONDO",
+    "price": "$0.7561",
+    "market_cap": "$2.38B",
+    "stats": {
+      "fdv": "$7.56B",
+      "volume": "$162.35M",
+      "ratio": 0.3148148148148148
+    }
+  },
+  {
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "price": "$0.9997",
+    "market_cap": "$2.32B",
+    "stats": {
+      "fdv": "$2.32B",
+      "volume": "$294.8M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "MemeCore",
+    "symbol": "M",
+    "price": "$1.98",
+    "market_cap": "$2.06B",
+    "stats": {
+      "fdv": "$19.81B",
+      "volume": "$14.46M",
+      "ratio": 0.10398788490661282
+    }
+  },
+  {
+    "name": "Worldcoin",
+    "symbol": "WLD",
+    "price": "$0.9224",
+    "market_cap": "$2.04B",
+    "stats": {
+      "fdv": "$9.22B",
+      "volume": "$192.81M",
+      "ratio": 0.22125813449023862
+    }
+  },
+  {
+    "name": "Polygon (prev. MATIC)",
+    "symbol": "POL",
+    "price": "$0.1933",
+    "market_cap": "$2.03B",
+    "stats": {
+      "fdv": "$2.03B",
+      "volume": "$150.21M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Story",
+    "symbol": "IP",
+    "price": "$6.12",
+    "market_cap": "$1.96B",
+    "stats": {
+      "fdv": "$6.22B",
+      "volume": "$114.74M",
+      "ratio": 0.31511254019292606
+    }
+  },
+  {
+    "name": "KuCoin Token",
+    "symbol": "KCS",
+    "price": "$14.11",
+    "market_cap": "$1.83B",
+    "stats": {
+      "fdv": "$2.82B",
+      "volume": "$9.94M",
+      "ratio": 0.648936170212766
+    }
+  },
+  {
+    "name": "Internet Computer",
+    "symbol": "ICP",
+    "price": "$3.30",
+    "market_cap": "$1.78B",
+    "stats": {
+      "fdv": "$1.78B",
+      "volume": "$88.75M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "price": "$0.3260",
+    "market_cap": "$1.76B",
+    "stats": {
+      "fdv": "$3.26B",
+      "volume": "$249.1M",
+      "ratio": 0.5398773006134969
+    }
+  },
+  {
+    "name": "Algorand",
+    "symbol": "ALGO",
+    "price": "$0.1958",
+    "market_cap": "$1.72B",
+    "stats": {
+      "fdv": "$1.95B",
+      "volume": "$102.62M",
+      "ratio": 0.882051282051282
+    }
+  },
+  {
+    "name": "Pi",
+    "symbol": "PI",
+    "price": "$0.2082",
+    "market_cap": "$1.72B",
+    "stats": {
+      "fdv": "$20.82B",
+      "volume": "$25.85M",
+      "ratio": 0.08261287223823247
+    }
+  },
+  {
+    "name": "Cosmos",
+    "symbol": "ATOM",
+    "price": "$3.31",
+    "market_cap": "$1.56B",
+    "stats": {
+      "fdv": "$1.56B",
+      "volume": "$113.18M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "VeChain",
+    "symbol": "VET",
+    "price": "$0.01809",
+    "market_cap": "$1.55B",
+    "stats": {
+      "fdv": "$1.56B",
+      "volume": "$49.03M",
+      "ratio": 0.9935897435897436
+    }
+  },
+  {
+    "name": "Kaspa",
+    "symbol": "KAS",
+    "price": "$0.05663",
+    "market_cap": "$1.51B",
+    "stats": {
+      "fdv": "$1.62B",
+      "volume": "$64.15M",
+      "ratio": 0.9320987654320988
+    }
+  },
+  {
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "price": "$0.02325",
+    "market_cap": "$1.46B",
+    "stats": {
+      "fdv": "$2.06B",
+      "volume": "$304.43M",
+      "ratio": 0.7087378640776699
+    }
+  },
+  {
+    "name": "Flare",
+    "symbol": "FLR",
+    "price": "$0.01884",
+    "market_cap": "$1.43B",
+    "stats": {
+      "fdv": "$1.96B",
+      "volume": "$12.67M",
+      "ratio": 0.7295918367346939
+    }
+  },
+  {
+    "name": "Sky",
+    "symbol": "SKY",
+    "price": "$0.05915",
+    "market_cap": "$1.38B",
+    "stats": {
+      "fdv": "$1.38B",
+      "volume": "$25.75M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Render",
+    "symbol": "RENDER",
+    "price": "$2.67",
+    "market_cap": "$1.38B",
+    "stats": {
+      "fdv": "$1.72B",
+      "volume": "$59.7M",
+      "ratio": 0.8023255813953488
+    }
+  },
+  {
+    "name": "Pump.fun",
+    "symbol": "PUMP",
+    "price": "$0.003826",
+    "market_cap": "$1.35B",
+    "stats": {
+      "fdv": "$3.82B",
+      "volume": "$259.29M",
+      "ratio": 0.35340314136125656
+    }
+  },
+  {
+    "name": "Sei",
+    "symbol": "SEI",
+    "price": "$0.2147",
+    "market_cap": "$1.34B",
+    "stats": {
+      "fdv": "$2.14B",
+      "volume": "$157.62M",
+      "ratio": 0.6261682242990654
+    }
+  },
+  {
+    "name": "PAX Gold",
+    "symbol": "PAXG",
+    "price": "$4,236.26",
+    "market_cap": "$1.31B",
+    "stats": {
+      "fdv": "$1.31B",
+      "volume": "$398.72M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "GateToken",
+    "symbol": "GT",
+    "price": "$15.99",
+    "market_cap": "$1.28B",
+    "stats": {
+      "fdv": "$4.79B",
+      "volume": "$9.75M",
+      "ratio": 0.267223382045929
+    }
+  },
+  {
+    "name": "Bonk",
+    "symbol": "BONK",
+    "price": "$0.00001501",
+    "market_cap": "$1.22B",
+    "stats": {
+      "fdv": "$1.33B",
+      "volume": "$259.77M",
+      "ratio": 0.9172932330827067
+    }
+  },
+  {
+    "name": "OFFICIAL TRUMP",
+    "symbol": "TRUMP",
+    "price": "$6.03",
+    "market_cap": "$1.2B",
+    "stats": {
+      "fdv": "$6.03B",
+      "volume": "$335.66M",
+      "ratio": 0.19900497512437812
+    }
+  },
+  {
+    "name": "Jupiter",
+    "symbol": "JUP",
+    "price": "$0.3611",
+    "market_cap": "$1.14B",
+    "stats": {
+      "fdv": "$2.52B",
+      "volume": "$34.79M",
+      "ratio": 0.4523809523809524
+    }
+  },
+  {
+    "name": "Filecoin",
+    "symbol": "FIL",
+    "price": "$1.58",
+    "market_cap": "$1.1B",
+    "stats": {
+      "fdv": "$3.11B",
+      "volume": "$162.97M",
+      "ratio": 0.3536977491961415
+    }
+  },
+  {
+    "name": "XDC Network",
+    "symbol": "XDC",
+    "price": "$0.06011",
+    "market_cap": "$1.06B",
+    "stats": {
+      "fdv": "$2.28B",
+      "volume": "$48.1M",
+      "ratio": 0.4649122807017544
+    }
+  },
+  {
+    "name": "Quant",
+    "symbol": "QNT",
+    "price": "$86.93",
+    "market_cap": "$1.04B",
+    "stats": {
+      "fdv": "$1.29B",
+      "volume": "$20.8M",
+      "ratio": 0.8062015503875969
+    }
+  },
+  {
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "price": "$0.9979",
+    "market_cap": "$1.04B",
+    "stats": {
+      "fdv": "$1.04B",
+      "volume": "$7.07B",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "SPX6900",
+    "symbol": "SPX",
+    "price": "$1.11",
+    "market_cap": "$1.04B",
+    "stats": {
+      "fdv": "$1.11B",
+      "volume": "$39.43M",
+      "ratio": 0.9369369369369369
+    }
+  },
+  {
+    "name": "Tether Gold",
+    "symbol": "XAUt",
+    "price": "$4,216.21",
+    "market_cap": "$1.03B",
+    "stats": {
+      "fdv": "$1.03B",
+      "volume": "$328.29M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "PancakeSwap",
+    "symbol": "CAKE",
+    "price": "$3.00",
+    "market_cap": "$1.03B",
+    "stats": {
+      "fdv": "$1.35B",
+      "volume": "$656.41M",
+      "ratio": 0.762962962962963
+    }
+  },
+  {
+    "name": "Immutable",
+    "symbol": "IMX",
+    "price": "$0.5222",
+    "market_cap": "$1.02B",
+    "stats": {
+      "fdv": "$1.04B",
+      "volume": "$78.76M",
+      "ratio": 0.9807692307692307
+    }
+  },
+  {
+    "name": "DoubleZero",
+    "symbol": "2Z",
+    "price": "$0.2599",
+    "market_cap": "$902.56M",
+    "stats": {
+      "fdv": "$2.59B",
+      "volume": "$937.64M",
+      "ratio": 0.34847876447876447
+    }
+  },
+  {
+    "name": "Injective",
+    "symbol": "INJ",
+    "price": "$9.02",
+    "market_cap": "$902.58M",
+    "stats": {
+      "fdv": "$902.84M",
+      "volume": "$75.58M",
+      "ratio": 0.9997120198484781
+    }
+  },
+  {
+    "name": "Celestia",
+    "symbol": "TIA",
+    "price": "$1.06",
+    "market_cap": "$868.93M",
+    "stats": {
+      "fdv": "$1.22B",
+      "volume": "$91.99M",
+      "ratio": 0.7122377049180327
+    }
+  },
+  {
+    "name": "Plasma",
+    "symbol": "XPL",
+    "price": "$0.4666",
+    "market_cap": "$839.96M",
+    "stats": {
+      "fdv": "$4.66B",
+      "volume": "$1.04B",
+      "ratio": 0.1802489270386266
+    }
+  },
+  {
+    "name": "Ripple USD",
+    "symbol": "RLUSD",
+    "price": "$1.00",
+    "market_cap": "$841.14M",
+    "stats": {
+      "fdv": "$841.14M",
+      "volume": "$184.63M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Lido DAO",
+    "symbol": "LDO",
+    "price": "$0.9137",
+    "market_cap": "$818.51M",
+    "stats": {
+      "fdv": "$913.74M",
+      "volume": "$210.74M",
+      "ratio": 0.8957799811762646
+    }
+  },
+  {
+    "name": "Stacks",
+    "symbol": "STX",
+    "price": "$0.4511",
+    "market_cap": "$814.22M",
+    "stats": {
+      "fdv": "$814.22M",
+      "volume": "$27.03M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Optimism",
+    "symbol": "OP",
+    "price": "$0.4561",
+    "market_cap": "$811.36M",
+    "stats": {
+      "fdv": "$1.95B",
+      "volume": "$159.74M",
+      "ratio": 0.4160820512820513
+    }
+  },
+  {
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "price": "$1.24",
+    "market_cap": "$802.88M",
+    "stats": {
+      "fdv": "$1.24B",
+      "volume": "$15.51M",
+      "ratio": 0.647483870967742
+    }
+  },
+  {
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "price": "$0.5510",
+    "market_cap": "$771.72M",
+    "stats": {
+      "fdv": "$1.66B",
+      "volume": "$282.51M",
+      "ratio": 0.46489156626506023
+    }
+  },
+  {
+    "name": "Aerodrome Finance",
+    "symbol": "AERO",
+    "price": "$0.8235",
+    "market_cap": "$743.25M",
+    "stats": {
+      "fdv": "$1.45B",
+      "volume": "$48.73M",
+      "ratio": 0.5125862068965518
+    }
+  },
+  {
+    "name": "Artificial Superintelligence Alliance",
+    "symbol": "FET",
+    "price": "$0.2917",
+    "market_cap": "$691.61M",
+    "stats": {
+      "fdv": "$793.29M",
+      "volume": "$199.84M",
+      "ratio": 0.8718249316139117
+    }
+  },
+  {
+    "name": "The Graph",
+    "symbol": "GRT",
+    "price": "$0.06539",
+    "market_cap": "$688.36M",
+    "stats": {
+      "fdv": "$743.94M",
+      "volume": "$36.9M",
+      "ratio": 0.9252896738984326
+    }
+  },
+  {
+    "name": "Kaia",
+    "symbol": "KAIA",
+    "price": "$0.1094",
+    "market_cap": "$672.2M",
+    "stats": {
+      "fdv": "$672.2M",
+      "volume": "$43.83M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "FLOKI",
+    "symbol": "FLOKI",
+    "price": "$0.00007077",
+    "market_cap": "$675.26M",
+    "stats": {
+      "fdv": "$683.46M",
+      "volume": "$84.74M",
+      "ratio": 0.9880022239779943
+    }
+  },
+  {
+    "name": "Pyth Network",
+    "symbol": "PYTH",
+    "price": "$0.1168",
+    "market_cap": "$671.8M",
+    "stats": {
+      "fdv": "$1.16B",
+      "volume": "$50.8M",
+      "ratio": 0.5791379310344827
+    }
+  },
+  {
+    "name": "MYX Finance",
+    "symbol": "MYX",
+    "price": "$3.13",
+    "market_cap": "$645.28M",
+    "stats": {
+      "fdv": "$3.13B",
+      "volume": "$53.15M",
+      "ratio": 0.2061597444089457
+    }
+  },
+  {
+    "name": "Tezos",
+    "symbol": "XTZ",
+    "price": "$0.6028",
+    "market_cap": "$640.21M",
+    "stats": {
+      "fdv": "$652.3M",
+      "volume": "$27.46M",
+      "ratio": 0.981465583320558
+    }
+  },
+  {
+    "name": "Morpho",
+    "symbol": "MORPHO",
+    "price": "$1.87",
+    "market_cap": "$636.05M",
+    "stats": {
+      "fdv": "$1.87B",
+      "volume": "$83.66M",
+      "ratio": 0.3401336898395722
+    }
+  },
+  {
+    "name": "AB",
+    "symbol": "AB",
+    "price": "$0.007427",
+    "market_cap": "$609.64M",
+    "stats": {
+      "fdv": "$733.97M",
+      "volume": "$37.57M",
+      "ratio": 0.8306061555649413
+    }
+  },
+  {
+    "name": "Synthetix",
+    "symbol": "SNX",
+    "price": "$1.76",
+    "market_cap": "$606.34M",
+    "stats": {
+      "fdv": "$600.02M",
+      "volume": "$312.15M",
+      "ratio": 1.0105329822339255
+    }
+  },
+  {
+    "name": "ether.fi",
+    "symbol": "ETHFI",
+    "price": "$1.18",
+    "market_cap": "$609.44M",
+    "stats": {
+      "fdv": "$1.18B",
+      "volume": "$75.87M",
+      "ratio": 0.5164745762711864
+    }
+  },
+  {
+    "name": "Ethereum Name Service",
+    "symbol": "ENS",
+    "price": "$16.09",
+    "market_cap": "$602.06M",
+    "stats": {
+      "fdv": "$1.6B",
+      "volume": "$69.96M",
+      "ratio": 0.3762875
+    }
+  },
+  {
+    "name": "Trust Wallet Token",
+    "symbol": "TWT",
+    "price": "$1.37",
+    "market_cap": "$592.88M",
+    "stats": {
+      "fdv": "$1.37B",
+      "volume": "$68.99M",
+      "ratio": 0.43275912408759126
+    }
+  },
+  {
+    "name": "IOTA",
+    "symbol": "IOTA",
+    "price": "$0.1440",
+    "market_cap": "$589.72M",
+    "stats": {
+      "fdv": "$662.59M",
+      "volume": "$19.55M",
+      "ratio": 0.8900224875111306
+    }
+  },
+  {
+    "name": "Dash",
+    "symbol": "DASH",
+    "price": "$46.03",
+    "market_cap": "$572.95M",
+    "stats": {
+      "fdv": "$870M",
+      "volume": "$230.63M",
+      "ratio": 0.6585632183908046
+    }
+  },
+  {
+    "name": "Dash",
+    "symbol": "DASH",
+    "price": "$46.03",
+    "market_cap": "$572.95M",
+    "stats": {
+      "fdv": "$870M",
+      "volume": "$230.63M",
+      "ratio": 0.6585632183908046
+    }
+  },
+  {
+    "name": "The Sandbox",
+    "symbol": "SAND",
+    "price": "$0.2147",
+    "market_cap": "$561.08M",
+    "stats": {
+      "fdv": "$644.1M",
+      "volume": "$52.38M",
+      "ratio": 0.8711069709672411
+    }
+  },
+  {
+    "name": "Pendle",
+    "symbol": "PENDLE",
+    "price": "$3.30",
+    "market_cap": "$560.58M",
+    "stats": {
+      "fdv": "$929.07M",
+      "volume": "$142.51M",
+      "ratio": 0.6033775711195066
+    }
+  },
+  {
+    "name": "DeXe",
+    "symbol": "DEXE",
+    "price": "$6.54",
+    "market_cap": "$548.45M",
+    "stats": {
+      "fdv": "$632.1M",
+      "volume": "$43.39M",
+      "ratio": 0.8676633444075305
+    }
+  },
+  {
+    "name": "Theta Network",
+    "symbol": "THETA",
+    "price": "$0.5519",
+    "market_cap": "$551.96M",
+    "stats": {
+      "fdv": "$551.96M",
+      "volume": "$28.32M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Sonic",
+    "symbol": "S",
+    "price": "$0.1902",
+    "market_cap": "$547.77M",
+    "stats": {
+      "fdv": "$612.94M",
+      "volume": "$70.68M",
+      "ratio": 0.893676379417235
+    }
+  },
+  {
+    "name": "dogwifhat",
+    "symbol": "WIF",
+    "price": "$0.5407",
+    "market_cap": "$540.12M",
+    "stats": {
+      "fdv": "$540.12M",
+      "volume": "$314.76M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "LayerZero",
+    "symbol": "ZRO",
+    "price": "$1.82",
+    "market_cap": "$537.89M",
+    "stats": {
+      "fdv": "$1.82B",
+      "volume": "$43.81M",
+      "ratio": 0.29554395604395606
+    }
+  },
+  {
+    "name": "Aethir",
+    "symbol": "ATH",
+    "price": "$0.03726",
+    "market_cap": "$530.42M",
+    "stats": {
+      "fdv": "$1.56B",
+      "volume": "$77.1M",
+      "ratio": 0.3400128205128205
+    }
+  },
+  {
+    "name": "Gala",
+    "symbol": "GALA",
+    "price": "$0.01147",
+    "market_cap": "$530.53M",
+    "stats": {
+      "fdv": "$573.96M",
+      "volume": "$86.8M",
+      "ratio": 0.9243327061119242
+    }
+  },
+  {
+    "name": "Maple Finance",
+    "symbol": "SYRUP",
+    "price": "$0.4390",
+    "market_cap": "$525.75M",
+    "stats": {
+      "fdv": "$526.93M",
+      "volume": "$89.95M",
+      "ratio": 0.9977606133642041
+    }
+  },
+  {
+    "name": "Starknet",
+    "symbol": "STRK",
+    "price": "$0.1179",
+    "market_cap": "$509.17M",
+    "stats": {
+      "fdv": "$1.17B",
+      "volume": "$48.55M",
+      "ratio": 0.4351880341880342
+    }
+  },
+  {
+    "name": "JasmyCoin",
+    "symbol": "JASMY",
+    "price": "$0.01026",
+    "market_cap": "$507.54M",
+    "stats": {
+      "fdv": "$513.24M",
+      "volume": "$29.86M",
+      "ratio": 0.9888940846387655
+    }
+  },
+  {
+    "name": "BitTorrent [New]",
+    "symbol": "BTT",
+    "price": "$0.0 6 5140",
+    "market_cap": "$506.83M",
+    "stats": {
+      "fdv": "$508.86M",
+      "volume": "$19.15M",
+      "ratio": 0.9960106905632198
+    }
+  },
+  {
+    "name": "Raydium",
+    "symbol": "RAY",
+    "price": "$1.89",
+    "market_cap": "$508.08M",
+    "stats": {
+      "fdv": "$1.05B",
+      "volume": "$44.45M",
+      "ratio": 0.4838857142857143
+    }
+  },
+  {
+    "name": "Virtuals Protocol",
+    "symbol": "VIRTUAL",
+    "price": "$0.7699",
+    "market_cap": "$504.8M",
+    "stats": {
+      "fdv": "$769.9M",
+      "volume": "$71.2M",
+      "ratio": 0.6556695674762957
+    }
+  },
+  {
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "price": "$0.2561",
+    "market_cap": "$504.6M",
+    "stats": {
+      "fdv": "$561.85M",
+      "volume": "$41.73M",
+      "ratio": 0.8981044762837056
+    }
+  },
+  {
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "price": "$0.9979",
+    "market_cap": "$493.5M",
+    "stats": {
+      "fdv": "$493.5M",
+      "volume": "$48.75M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "USDD",
+    "symbol": "USDD",
+    "price": "$1.00",
+    "market_cap": "$490.78M",
+    "stats": {
+      "fdv": "$490.78M",
+      "volume": "$11.63M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "EigenLayer",
+    "symbol": "EIGEN",
+    "price": "$1.23",
+    "market_cap": "$476.13M",
+    "stats": {
+      "fdv": "$2.16B",
+      "volume": "$114.5M",
+      "ratio": 0.22043055555555555
+    }
+  },
+  {
+    "name": "Vaulta",
+    "symbol": "A",
+    "price": "$0.2968",
+    "market_cap": "$474.1M",
+    "stats": {
+      "fdv": "$623.32M",
+      "volume": "$35.96M",
+      "ratio": 0.760604504909196
+    }
+  },
+  {
+    "name": "Sun [New]",
+    "symbol": "SUN",
+    "price": "$0.02387",
+    "market_cap": "$457.73M",
+    "stats": {
+      "fdv": "$475.17M",
+      "volume": "$38.13M",
+      "ratio": 0.9632973462129343
+    }
+  },
+  {
+    "name": "Flow",
+    "symbol": "FLOW",
+    "price": "$0.2827",
+    "market_cap": "$456.85M",
+    "stats": {
+      "fdv": "$456.85M",
+      "volume": "$18.01M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Jito",
+    "symbol": "JTO",
+    "price": "$1.12",
+    "market_cap": "$439.47M",
+    "stats": {
+      "fdv": "$1.12B",
+      "volume": "$31.87M",
+      "ratio": 0.39238392857142856
+    }
+  },
+  {
+    "name": "Bitcoin SV",
+    "symbol": "BSV",
+    "price": "$21.94",
+    "market_cap": "$437.54M",
+    "stats": {
+      "fdv": "$437.54M",
+      "volume": "$47.99M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "0G",
+    "symbol": "0G",
+    "price": "$2.06",
+    "market_cap": "$440.12M",
+    "stats": {
+      "fdv": "$2.06B",
+      "volume": "$58.16M",
+      "ratio": 0.21365048543689322
+    }
+  },
+  {
+    "name": "APENFT",
+    "symbol": "NFT",
+    "price": "$0.0 6 4173",
+    "market_cap": "$417.37M",
+    "stats": {
+      "fdv": "$417.37M",
+      "volume": "$14.73M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "ZORA",
+    "symbol": "ZORA",
+    "price": "$0.09341",
+    "market_cap": "$417.56M",
+    "stats": {
+      "fdv": "$934.14M",
+      "volume": "$210.96M",
+      "ratio": 0.4469993791080566
+    }
+  },
+  {
+    "name": "Fartcoin",
+    "symbol": "FARTCOIN",
+    "price": "$0.3997",
+    "market_cap": "$399.76M",
+    "stats": {
+      "fdv": "$399.76M",
+      "volume": "$148.19M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Helium",
+    "symbol": "HNT",
+    "price": "$2.11",
+    "market_cap": "$393.27M",
+    "stats": {
+      "fdv": "$470.69M",
+      "volume": "$7.17M",
+      "ratio": 0.8355180692175317
+    }
+  },
+  {
+    "name": "DeepBook Protocol",
+    "symbol": "DEEP",
+    "price": "$0.09342",
+    "market_cap": "$395.22M",
+    "stats": {
+      "fdv": "$934.23M",
+      "volume": "$18.45M",
+      "ratio": 0.4230435759930638
+    }
+  },
+  {
+    "name": "Zebec Network",
+    "symbol": "ZBCN",
+    "price": "$0.004225",
+    "market_cap": "$391.17M",
+    "stats": {
+      "fdv": "$422.51M",
+      "volume": "$33.82M",
+      "ratio": 0.9258242408463705
+    }
+  },
+  {
+    "name": "Wormhole",
+    "symbol": "W",
+    "price": "$0.08008",
+    "market_cap": "$381.41M",
+    "stats": {
+      "fdv": "$800.83M",
+      "volume": "$106.36M",
+      "ratio": 0.4762683715645018
+    }
+  },
+  {
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "price": "$0.006336",
+    "market_cap": "$384.04M",
+    "stats": {
+      "fdv": "$633.65M",
+      "volume": "$67.16M",
+      "ratio": 0.6060759094137141
+    }
+  },
+  {
+    "name": "Useless Coin",
+    "symbol": "USELESS",
+    "price": "$0.3883",
+    "market_cap": "$387.97M",
+    "stats": {
+      "fdv": "$388.32M",
+      "volume": "$116.23M",
+      "ratio": 0.999098681499794
+    }
+  },
+  {
+    "name": "Four",
+    "symbol": "FORM",
+    "price": "$0.9748",
+    "market_cap": "$372.24M",
+    "stats": {
+      "fdv": "$565.38M",
+      "volume": "$136.38M",
+      "ratio": 0.6583890480738618
+    }
+  },
+  {
+    "name": "OriginTrail",
+    "symbol": "TRAC",
+    "price": "$0.7411",
+    "market_cap": "$370.57M",
+    "stats": {
+      "fdv": "$370.57M",
+      "volume": "$14.96M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Neo",
+    "symbol": "NEO",
+    "price": "$5.21",
+    "market_cap": "$367.97M",
+    "stats": {
+      "fdv": "$521.66M",
+      "volume": "$28.23M",
+      "ratio": 0.7053828163938198
+    }
+  },
+  {
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "price": "$131.06",
+    "market_cap": "$345.89M",
+    "stats": {
+      "fdv": "$393.17M",
+      "volume": "$7.98M",
+      "ratio": 0.8797466744665158
+    }
+  },
+  {
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "price": "$0.03392",
+    "market_cap": "$340.74M",
+    "stats": {
+      "fdv": "$340.74M",
+      "volume": "$76.82M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Walrus",
+    "symbol": "WAL",
+    "price": "$0.2300",
+    "market_cap": "$340.25M",
+    "stats": {
+      "fdv": "$1.15B",
+      "volume": "$88.51M",
+      "ratio": 0.29586956521739133
+    }
+  },
+  {
+    "name": "Compound",
+    "symbol": "COMP",
+    "price": "$34.93",
+    "market_cap": "$338.63M",
+    "stats": {
+      "fdv": "$349.32M",
+      "volume": "$50.19M",
+      "ratio": 0.9693976869346158
+    }
+  },
+  {
+    "name": "Onyxcoin",
+    "symbol": "XCN",
+    "price": "$0.009291",
+    "market_cap": "$332.02M",
+    "stats": {
+      "fdv": "$640.12M",
+      "volume": "$19.45M",
+      "ratio": 0.5186839967506093
+    }
+  },
+  {
+    "name": "Falcon Finance",
+    "symbol": "FF",
+    "price": "$0.1412",
+    "market_cap": "$330.55M",
+    "stats": {
+      "fdv": "$1.41B",
+      "volume": "$144.52M",
+      "ratio": 0.23443262411347518
+    }
+  },
+  {
+    "name": "JUST",
+    "symbol": "JST",
+    "price": "$0.03210",
+    "market_cap": "$317.83M",
+    "stats": {
+      "fdv": "$317.83M",
+      "volume": "$45.94M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Toshi",
+    "symbol": "TOSHI",
+    "price": "$0.0007450",
+    "market_cap": "$313.41M",
+    "stats": {
+      "fdv": "$313.42M",
+      "volume": "$35.88M",
+      "ratio": 0.9999680939314658
+    }
+  },
+  {
+    "name": "THORChain",
+    "symbol": "RUNE",
+    "price": "$0.8744",
+    "market_cap": "$307.15M",
+    "stats": {
+      "fdv": "$371.91M",
+      "volume": "$53.95M",
+      "ratio": 0.8258718507165712
+    }
+  },
+  {
+    "name": "WEMIX",
+    "symbol": "WEMIX",
+    "price": "$0.6655",
+    "market_cap": "$304.2M",
+    "stats": {
+      "fdv": "$392.7M",
+      "volume": "$4.62M",
+      "ratio": 0.774637127578304
+    }
+  },
+  {
+    "name": "Beam",
+    "symbol": "BEAM",
+    "price": "$0.006127",
+    "market_cap": "$303.09M",
+    "stats": {
+      "fdv": "$382.56M",
+      "volume": "$13.34M",
+      "ratio": 0.7922678795483061
+    }
+  },
+  {
+    "name": "ZKsync",
+    "symbol": "ZK",
+    "price": "$0.03763",
+    "market_cap": "$305.11M",
+    "stats": {
+      "fdv": "$790.38M",
+      "volume": "$26.86M",
+      "ratio": 0.38602950479516185
+    }
+  },
+  {
+    "name": "Linea",
+    "symbol": "LINEA",
+    "price": "$0.01944",
+    "market_cap": "$301.11M",
+    "stats": {
+      "fdv": "$1.4B",
+      "volume": "$105.38M",
+      "ratio": 0.21507857142857142
+    }
+  },
+  {
+    "name": "ApeCoin",
+    "symbol": "APE",
+    "price": "$0.4012",
+    "market_cap": "$302.03M",
+    "stats": {
+      "fdv": "$401.29M",
+      "volume": "$39.75M",
+      "ratio": 0.7526477111316006
+    }
+  },
+  {
+    "name": "Decred",
+    "symbol": "DCR",
+    "price": "$17.57",
+    "market_cap": "$299.97M",
+    "stats": {
+      "fdv": "$369.03M",
+      "volume": "$2.92M",
+      "ratio": 0.812860743029022
+    }
+  },
+  {
+    "name": "eCash",
+    "symbol": "XEC",
+    "price": "$0.00001496",
+    "market_cap": "$298.34M",
+    "stats": {
+      "fdv": "$314.3M",
+      "volume": "$7.52M",
+      "ratio": 0.9492204899777282
+    }
+  },
+  {
+    "name": "Brett (Based)",
+    "symbol": "BRETT",
+    "price": "$0.03011",
+    "market_cap": "$298.48M",
+    "stats": {
+      "fdv": "$301.19M",
+      "volume": "$64.85M",
+      "ratio": 0.99100235731598
+    }
+  },
+  {
+    "name": "Merlin Chain",
+    "symbol": "MERL",
+    "price": "$0.3003",
+    "market_cap": "$294.03M",
+    "stats": {
+      "fdv": "$630.74M",
+      "volume": "$35.72M",
+      "ratio": 0.46616672479944193
+    }
+  },
+  {
+    "name": "MultiversX",
+    "symbol": "EGLD",
+    "price": "$10.15",
+    "market_cap": "$291.35M",
+    "stats": {
+      "fdv": "$318.94M",
+      "volume": "$17.81M",
+      "ratio": 0.9134947011977175
+    }
+  },
+  {
+    "name": "Cheems (cheems.pet)",
+    "symbol": "CHEEMS",
+    "price": "$0.0 5 1471",
+    "market_cap": "$275.94M",
+    "stats": {
+      "fdv": "$299.75M",
+      "volume": "$8.54M",
+      "ratio": 0.9205671392827356
+    }
+  },
+  {
+    "name": "dYdX",
+    "symbol": "DYDX",
+    "price": "$0.3520",
+    "market_cap": "$278.21M",
+    "stats": {
+      "fdv": "$352M",
+      "volume": "$22.92M",
+      "ratio": 0.7903693181818182
+    }
+  },
+  {
+    "name": "Arweave",
+    "symbol": "AR",
+    "price": "$4.25",
+    "market_cap": "$279.34M",
+    "stats": {
+      "fdv": "$280.81M",
+      "volume": "$39.28M",
+      "ratio": 0.994765143691464
+    }
+  },
+  {
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "price": "$0.1848",
+    "market_cap": "$276.49M",
+    "stats": {
+      "fdv": "$277.28M",
+      "volume": "$61.4M",
+      "ratio": 0.9971508944027697
+    }
+  },
+  {
+    "name": "Axie Infinity",
+    "symbol": "AXS",
+    "price": "$1.65",
+    "market_cap": "$276.21M",
+    "stats": {
+      "fdv": "$447.75M",
+      "volume": "$41.54M",
+      "ratio": 0.6168844221105527
+    }
+  },
+  {
+    "name": "Ronin",
+    "symbol": "RON",
+    "price": "$0.3960",
+    "market_cap": "$274.53M",
+    "stats": {
+      "fdv": "$396.09M",
+      "volume": "$6.62M",
+      "ratio": 0.6931000530182534
+    }
+  },
+  {
+    "name": "SuperVerse",
+    "symbol": "SUPER",
+    "price": "$0.4347",
+    "market_cap": "$273.2M",
+    "stats": {
+      "fdv": "$434.74M",
+      "volume": "$71.4M",
+      "ratio": 0.6284215853153609
+    }
+  },
+  {
+    "name": "FTX Token",
+    "symbol": "FTT",
+    "price": "$0.8295",
+    "market_cap": "$272.82M",
+    "stats": {
+      "fdv": "$292.12M",
+      "volume": "$23.35M",
+      "ratio": 0.9339312611255648
+    }
+  },
+  {
+    "name": "AIOZ Network",
+    "symbol": "AIOZ",
+    "price": "$0.2184",
+    "market_cap": "$264.33M",
+    "stats": {
+      "fdv": "$264.33M",
+      "volume": "$9.35M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "EURC",
+    "symbol": "EURC",
+    "price": "$1.16",
+    "market_cap": "$261.12M",
+    "stats": {
+      "fdv": "$261.12M",
+      "volume": "$105.38M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "KAITO",
+    "symbol": "KAITO",
+    "price": "$1.09",
+    "market_cap": "$263.18M",
+    "stats": {
+      "fdv": "$1.09B",
+      "volume": "$20.18M",
+      "ratio": 0.24144954128440366
+    }
+  },
+  {
+    "name": "1inch",
+    "symbol": "1INCH",
+    "price": "$0.1854",
+    "market_cap": "$259.42M",
+    "stats": {
+      "fdv": "$278.24M",
+      "volume": "$20.7M",
+      "ratio": 0.9323605520414032
+    }
+  },
+  {
+    "name": "Core",
+    "symbol": "CORE",
+    "price": "$0.2552",
+    "market_cap": "$258.98M",
+    "stats": {
+      "fdv": "$536.12M",
+      "volume": "$16.98M",
+      "ratio": 0.4830634932477804
+    }
+  },
+  {
+    "name": "Convex Finance",
+    "symbol": "CVX",
+    "price": "$2.52",
+    "market_cap": "$245.64M",
+    "stats": {
+      "fdv": "$252.33M",
+      "volume": "$18.39M",
+      "ratio": 0.9734871002258947
+    }
+  },
+  {
+    "name": "Snek",
+    "symbol": "SNEK",
+    "price": "$0.003219",
+    "market_cap": "$240.43M",
+    "stats": {
+      "fdv": "$247M",
+      "volume": "$5.47M",
+      "ratio": 0.9734008097165991
+    }
+  },
+  {
+    "name": "Plume",
+    "symbol": "PLUME",
+    "price": "$0.07891",
+    "market_cap": "$239.48M",
+    "stats": {
+      "fdv": "$789.18M",
+      "volume": "$31.41M",
+      "ratio": 0.3034542183025419
+    }
+  },
+  {
+    "name": "Berachain",
+    "symbol": "BERA",
+    "price": "$1.82",
+    "market_cap": "$235.99M",
+    "stats": {
+      "fdv": "$935.95M",
+      "volume": "$61.55M",
+      "ratio": 0.2521395373684492
+    }
+  },
+  {
+    "name": "Livepeer",
+    "symbol": "LPT",
+    "price": "$5.16",
+    "market_cap": "$234.78M",
+    "stats": {
+      "fdv": "$234.78M",
+      "volume": "$21.55M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Moca Network",
+    "symbol": "MOCA",
+    "price": "$0.05848",
+    "market_cap": "$231.38M",
+    "stats": {
+      "fdv": "$519.84M",
+      "volume": "$20.68M",
+      "ratio": 0.44509849184364414
+    }
+  },
+  {
+    "name": "Axelar",
+    "symbol": "AXL",
+    "price": "$0.2180",
+    "market_cap": "$229.68M",
+    "stats": {
+      "fdv": "$265.91M",
+      "volume": "$12.02M",
+      "ratio": 0.8637508931593395
+    }
+  },
+  {
+    "name": "Creditcoin",
+    "symbol": "CTC",
+    "price": "$0.4566",
+    "market_cap": "$226.7M",
+    "stats": {
+      "fdv": "$274.01M",
+      "volume": "$13.15M",
+      "ratio": 0.8273420678077442
+    }
+  },
+  {
+    "name": "Terra Classic",
+    "symbol": "LUNC",
+    "price": "$0.00004110",
+    "market_cap": "$226.13M",
+    "stats": {
+      "fdv": "$266.57M",
+      "volume": "$13.62M",
+      "ratio": 0.8482950069400158
+    }
+  },
+  {
+    "name": "Amp",
+    "symbol": "AMP",
+    "price": "$0.002661",
+    "market_cap": "$224.33M",
+    "stats": {
+      "fdv": "$266.17M",
+      "volume": "$27.34M",
+      "ratio": 0.8428072284630123
+    }
+  },
+  {
+    "name": "MX Token",
+    "symbol": "MX",
+    "price": "$2.41",
+    "market_cap": "$219.42M",
+    "stats": {
+      "fdv": "$998.89M",
+      "volume": "$12.58M",
+      "ratio": 0.21966382684780106
+    }
+  },
+  {
+    "name": "Movement",
+    "symbol": "MOVE",
+    "price": "$0.08017",
+    "market_cap": "$220.47M",
+    "stats": {
+      "fdv": "$801.72M",
+      "volume": "$26.65M",
+      "ratio": 0.27499625804520283
+    }
+  },
+  {
+    "name": "Horizen",
+    "symbol": "ZEN",
+    "price": "$12.24",
+    "market_cap": "$214.1M",
+    "stats": {
+      "fdv": "$257.05M",
+      "volume": "$98.75M",
+      "ratio": 0.8329118848473059
+    }
+  },
+  {
+    "name": "Drift",
+    "symbol": "DRIFT",
+    "price": "$0.5524",
+    "market_cap": "$210.25M",
+    "stats": {
+      "fdv": "$552.46M",
+      "volume": "$26.59M",
+      "ratio": 0.38057053904355065
+    }
+  },
+  {
+    "name": "Qtum",
+    "symbol": "QTUM",
+    "price": "$1.99",
+    "market_cap": "$211.37M",
+    "stats": {
+      "fdv": "$215.31M",
+      "volume": "$49.04M",
+      "ratio": 0.9817008034926386
+    }
+  },
+  {
+    "name": "Akash Network",
+    "symbol": "AKT",
+    "price": "$0.7462",
+    "market_cap": "$209.23M",
+    "stats": {
+      "fdv": "$289.96M",
+      "volume": "$11.63M",
+      "ratio": 0.7215822872120292
+    }
+  },
+  {
+    "name": "SafePal",
+    "symbol": "SFP",
+    "price": "$0.3938",
+    "market_cap": "$196.92M",
+    "stats": {
+      "fdv": "$196.92M",
+      "volume": "$5.84M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Theta Fuel",
+    "symbol": "TFUEL",
+    "price": "$0.02685",
+    "market_cap": "$190.72M",
+    "stats": {
+      "fdv": "$190.72M",
+      "volume": "$2.91M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Kusama",
+    "symbol": "KSM",
+    "price": "$11.15",
+    "market_cap": "$191.22M",
+    "stats": {
+      "fdv": "$191.22M",
+      "volume": "$12.53M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Mog Coin",
+    "symbol": "MOG",
+    "price": "$0.0 6 4776",
+    "market_cap": "$186.53M",
+    "stats": {
+      "fdv": "$200.92M",
+      "volume": "$15.7M",
+      "ratio": 0.9283794545092574
+    }
+  },
+  {
+    "name": "Kamino Finance",
+    "symbol": "KMNO",
+    "price": "$0.06181",
+    "market_cap": "$186.4M",
+    "stats": {
+      "fdv": "$618.11M",
+      "volume": "$22.23M",
+      "ratio": 0.3015644464577502
+    }
+  },
+  {
+    "name": "Prom",
+    "symbol": "PROM",
+    "price": "$10.10",
+    "market_cap": "$184.4M",
+    "stats": {
+      "fdv": "$194.51M",
+      "volume": "$8.55M",
+      "ratio": 0.9480232378798005
+    }
+  },
+  {
+    "name": "Turbo",
+    "symbol": "TURBO",
+    "price": "$0.002683",
+    "market_cap": "$185.13M",
+    "stats": {
+      "fdv": "$185.13M",
+      "volume": "$29.97M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Kava",
+    "symbol": "KAVA",
+    "price": "$0.1705",
+    "market_cap": "$184.63M",
+    "stats": {
+      "fdv": "$184.63M",
+      "volume": "$16.57M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "BUILDon",
+    "symbol": "B",
+    "price": "$0.1840",
+    "market_cap": "$184.01M",
+    "stats": {
+      "fdv": "$184.01M",
+      "volume": "$127.03M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Golem",
+    "symbol": "GLM",
+    "price": "$0.1813",
+    "market_cap": "$181.33M",
+    "stats": {
+      "fdv": "$181.33M",
+      "volume": "$10.04M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Safe",
+    "symbol": "SAFE",
+    "price": "$0.2763",
+    "market_cap": "$178.82M",
+    "stats": {
+      "fdv": "$276.32M",
+      "volume": "$7.24M",
+      "ratio": 0.6471482339316734
+    }
+  },
+  {
+    "name": "Euler",
+    "symbol": "EUL",
+    "price": "$8.57",
+    "market_cap": "$177.4M",
+    "stats": {
+      "fdv": "$233.01M",
+      "volume": "$77.83M",
+      "ratio": 0.7613407149907729
+    }
+  },
+  {
+    "name": "cat in a dogs world",
+    "symbol": "MEW",
+    "price": "$0.002004",
+    "market_cap": "$178.14M",
+    "stats": {
+      "fdv": "$178.14M",
+      "volume": "$28.71M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Sahara AI",
+    "symbol": "SAHARA",
+    "price": "$0.07746",
+    "market_cap": "$177.61M",
+    "stats": {
+      "fdv": "$774.67M",
+      "volume": "$26.73M",
+      "ratio": 0.22927181896807672
+    }
+  },
+  {
+    "name": "ChainOpera AI",
+    "symbol": "COAI",
+    "price": "$17.56",
+    "market_cap": "$3.45B",
+    "stats": {
+      "fdv": "$17.56B",
+      "volume": "$381.84M",
+      "ratio": 0.19646924829157175
+    }
+  },
+  {
+    "name": "Jupiter Perps LP",
+    "symbol": "JLP",
+    "price": "$5.49",
+    "market_cap": "$2.19B",
+    "stats": {
+      "fdv": "$2.19B",
+      "volume": "$49.13M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Falcon USD",
+    "symbol": "USDf",
+    "price": "$0.9973",
+    "market_cap": "$2.14B",
+    "stats": {
+      "fdv": "$2.14B",
+      "volume": "$5.24M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Global Dollar",
+    "symbol": "USDG",
+    "price": "$1.00",
+    "market_cap": "$942.85M",
+    "stats": {
+      "fdv": "$942.85M",
+      "volume": "$25.44M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Fasttoken",
+    "symbol": "FTN",
+    "price": "$2.02",
+    "market_cap": "$881.37M",
+    "stats": {
+      "fdv": "$2.02B",
+      "volume": "$27.83M",
+      "ratio": 0.4363217821782178
+    }
+  },
+  {
+    "name": "Zeebu",
+    "symbol": "ZBU",
+    "price": "$1.68",
+    "market_cap": "$696.59M",
+    "stats": {
+      "fdv": "$8.42B",
+      "volume": "$318.07K",
+      "ratio": 0.08273040380047506
+    }
+  },
+  {
+    "name": "Ondo US Dollar Yield",
+    "symbol": "USDY",
+    "price": "$1.10",
+    "market_cap": "$692.78M",
+    "stats": {
+      "fdv": "$692.78M",
+      "volume": "$1.02M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "APX",
+    "symbol": "APX",
+    "price": "$1.24",
+    "market_cap": "$661.27M",
+    "stats": {
+      "fdv": "$4.93B",
+      "volume": "$871.71K",
+      "ratio": 0.134131845841785
+    }
+  },
+  {
+    "name": "Usual USD",
+    "symbol": "USD0",
+    "price": "$0.9983",
+    "market_cap": "$603.58M",
+    "stats": {
+      "fdv": "$603.58M",
+      "volume": "$844.38K",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Beldex",
+    "symbol": "BDX",
+    "price": "$0.07836",
+    "market_cap": "$585.91M",
+    "stats": {
+      "fdv": "$778.76M",
+      "volume": "$10.72M",
+      "ratio": 0.7523627304946325
+    }
+  },
+  {
+    "name": "USDai",
+    "symbol": "USDAI",
+    "price": "$1.03",
+    "market_cap": "$517.97M",
+    "stats": {
+      "fdv": "$517.97M",
+      "volume": "$2.29M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "SwissBorg",
+    "symbol": "BORG",
+    "price": "$0.5130",
+    "market_cap": "$503.89M",
+    "stats": {
+      "fdv": "$504.07M",
+      "volume": "$2.13M",
+      "ratio": 0.9996429067391434
+    }
+  },
+  {
+    "name": "Fluid",
+    "symbol": "FLUID",
+    "price": "$5.07",
+    "market_cap": "$389.39M",
+    "stats": {
+      "fdv": "$507.33M",
+      "volume": "$8.11M",
+      "ratio": 0.7675280389490076
+    }
+  },
+  {
+    "name": "Vision",
+    "symbol": "VSN",
+    "price": "$0.1101",
+    "market_cap": "$385.09M",
+    "stats": {
+      "fdv": "$462.82M",
+      "volume": "$4.05M",
+      "ratio": 0.8320513374530055
+    }
+  },
+  {
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "price": "$0.004132",
+    "market_cap": "$376.05M",
+    "stats": {
+      "fdv": "$413.21M",
+      "volume": "$3.69M",
+      "ratio": 0.9100699402240991
+    }
+  },
+  {
+    "name": "Loaded Lions",
+    "symbol": "LION",
+    "price": "$0.01190",
+    "market_cap": "$367.18M",
+    "stats": {
+      "fdv": "$1.19B",
+      "volume": "$1.23M",
+      "ratio": 0.3085546218487395
+    }
+  },
+  {
+    "name": "GHO",
+    "symbol": "GHO",
+    "price": "$0.9998",
+    "market_cap": "$352.78M",
+    "stats": {
+      "fdv": "$352.78M",
+      "volume": "$2.57M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "AI Companions",
+    "symbol": "AIC",
+    "price": "$0.4363",
+    "market_cap": "$327.29M",
+    "stats": {
+      "fdv": "$436.39M",
+      "volume": "$6.77M",
+      "ratio": 0.7499942711794496
+    }
+  },
+  {
+    "name": "Kinesis Gold",
+    "symbol": "KAU",
+    "price": "$136.11",
+    "market_cap": "$320M",
+    "stats": {
+      "fdv": "$198.52M",
+      "volume": "$78.28K",
+      "ratio": 1.611928269192021
+    }
+  },
+  {
+    "name": "Bless",
+    "symbol": "BLESS",
+    "price": "$0.1634",
+    "market_cap": "$301.04M",
+    "stats": {
+      "fdv": "$1.63B",
+      "volume": "$190.99M",
+      "ratio": 0.18468711656441716
+    }
+  },
+  {
+    "name": "Legacy Frax Dollar",
+    "symbol": "FRAX",
+    "price": "$0.9974",
+    "market_cap": "$295.41M",
+    "stats": {
+      "fdv": "$295.41M",
+      "volume": "$4.97M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Humanity Protocol",
+    "symbol": "H",
+    "price": "$0.1312",
+    "market_cap": "$278.13M",
+    "stats": {
+      "fdv": "$1.31B",
+      "volume": "$109.88M",
+      "ratio": 0.21231297709923663
+    }
+  },
+  {
+    "name": "Aster USDF",
+    "symbol": "USDF",
+    "price": "$0.9989",
+    "market_cap": "$272.28M",
+    "stats": {
+      "fdv": "$272.28M",
+      "volume": "$6.64M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Saros",
+    "symbol": "SAROS",
+    "price": "$0.2556",
+    "market_cap": "$272.28M",
+    "stats": {
+      "fdv": "$2.55B",
+      "volume": "$28.79M",
+      "ratio": 0.10677647058823529
+    }
+  },
+  {
+    "name": "SOON",
+    "symbol": "SOON",
+    "price": "$0.8259",
+    "market_cap": "$257.88M",
+    "stats": {
+      "fdv": "$803.68M",
+      "volume": "$102.87M",
+      "ratio": 0.3208739796934103
+    }
+  },
+  {
+    "name": "SoSoValue",
+    "symbol": "SOSO",
+    "price": "$0.7467",
+    "market_cap": "$205.17M",
+    "stats": {
+      "fdv": "$746.73M",
+      "volume": "$12.79M",
+      "ratio": 0.2747579446386244
+    }
+  },
+  {
+    "name": "Legacy Token",
+    "symbol": "LGCT",
+    "price": "$1.92",
+    "market_cap": "$204.71M",
+    "stats": {
+      "fdv": "$578.6M",
+      "volume": "$5.79M",
+      "ratio": 0.3538022813688213
+    }
+  },
+  {
+    "name": "BNB Attestation Service",
+    "symbol": "BAS",
+    "price": "$0.08118",
+    "market_cap": "$202.95M",
+    "stats": {
+      "fdv": "$811.83M",
+      "volume": "$91.89M",
+      "ratio": 0.2499907616126529
+    }
+  },
+  {
+    "name": "Ailey",
+    "symbol": "ALE",
+    "price": "$0.5110",
+    "market_cap": "$200.78M",
+    "stats": {
+      "fdv": "$511.01M",
+      "volume": "$583.67K",
+      "ratio": 0.39290816226688324
+    }
+  },
+  {
+    "name": "Qubic",
+    "symbol": "QUBIC",
+    "price": "$0.0 5 1540",
+    "market_cap": "$194.41M",
+    "stats": {
+      "fdv": "$308.16M",
+      "volume": "$5.11M",
+      "ratio": 0.6308735721703012
+    }
+  },
+  {
+    "name": "StandX DUSD",
+    "symbol": "DUSD",
+    "price": "$0.9998",
+    "market_cap": "$193.69M",
+    "stats": {
+      "fdv": "$193.69M",
+      "volume": "$231.36M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Nexusmind",
+    "symbol": "NMD",
+    "price": "$18.77",
+    "market_cap": "$192.63M",
+    "stats": {
+      "fdv": "$1.87B",
+      "volume": "$0 0",
+      "ratio": 0.10301069518716578
+    }
+  },
+  {
+    "name": "UPCX",
+    "symbol": "UPC",
+    "price": "$2.01",
+    "market_cap": "$188.82M",
+    "stats": {
+      "fdv": "$1.57B",
+      "volume": "$690.59K",
+      "ratio": 0.12026751592356688
+    }
+  },
+  {
+    "name": "Concordium",
+    "symbol": "CCD",
+    "price": "$0.01531",
+    "market_cap": "$179.2M",
+    "stats": {
+      "fdv": "$216.5M",
+      "volume": "$772.06K",
+      "ratio": 0.8277136258660508
+    }
+  },
+  {
+    "name": "Sahara AI",
+    "symbol": "SAHARA",
+    "price": "$0.07746",
+    "market_cap": "$177.61M",
+    "stats": {
+      "fdv": "$774.67M",
+      "volume": "$26.73M",
+      "ratio": 0.22927181896807672
+    }
+  },
+  {
+    "name": "Dog (Bitcoin)",
+    "symbol": "DOG",
+    "price": "$0.001781",
+    "market_cap": "$178.14M",
+    "stats": {
+      "fdv": "$178.14M",
+      "volume": "$7.15M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "GoМining",
+    "symbol": "GOMINING",
+    "price": "$0.4339",
+    "market_cap": "$176.61M",
+    "stats": {
+      "fdv": "$178.3M",
+      "volume": "$11.5M",
+      "ratio": 0.9905215928210881
+    }
+  },
+  {
+    "name": "Baby Doge Coin",
+    "symbol": "BabyDoge",
+    "price": "$0.0 8 1036",
+    "market_cap": "$176.1M",
+    "stats": {
+      "fdv": "$209.94M",
+      "volume": "$14.62M",
+      "ratio": 0.8388110888825379
+    }
+  },
+  {
+    "name": "Velo",
+    "symbol": "VELO",
+    "price": "$0.009831",
+    "market_cap": "$172.68M",
+    "stats": {
+      "fdv": "$235.95M",
+      "volume": "$22.57M",
+      "ratio": 0.7318499682136046
+    }
+  },
+  {
+    "name": "Ribbita by Virtuals",
+    "symbol": "TIBBIR",
+    "price": "$0.1711",
+    "market_cap": "$171.13M",
+    "stats": {
+      "fdv": "$171.13M",
+      "volume": "$2.87M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "4",
+    "symbol": "4",
+    "price": "$0.1737",
+    "market_cap": "$173.71M",
+    "stats": {
+      "fdv": "$173.71M",
+      "volume": "$172.39M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Gas",
+    "symbol": "GAS",
+    "price": "$2.63",
+    "market_cap": "$171.34M",
+    "stats": {
+      "fdv": "$171.34M",
+      "volume": "$6.84M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Subsquid",
+    "symbol": "SQD",
+    "price": "$0.1906",
+    "market_cap": "$167.76M",
+    "stats": {
+      "fdv": "$254.91M",
+      "volume": "$25.76M",
+      "ratio": 0.6581146286924797
+    }
+  },
+  {
+    "name": "Celo",
+    "symbol": "CELO",
+    "price": "$0.2876",
+    "market_cap": "$167.99M",
+    "stats": {
+      "fdv": "$287.61M",
+      "volume": "$22.74M",
+      "ratio": 0.5840895657313724
+    }
+  },
+  {
+    "name": "Quantum Resistant Ledger",
+    "symbol": "QRL",
+    "price": "$2.44",
+    "market_cap": "$165.94M",
+    "stats": {
+      "fdv": "$256.48M",
+      "volume": "$279.14K",
+      "ratio": 0.6469900187149095
+    }
+  },
+  {
+    "name": "Zilliqa",
+    "symbol": "ZIL",
+    "price": "$0.008441",
+    "market_cap": "$165.08M",
+    "stats": {
+      "fdv": "$177.27M",
+      "volume": "$17.75M",
+      "ratio": 0.9312348395103515
+    }
+  },
+  {
+    "name": "AWE",
+    "symbol": "AWE",
+    "price": "$0.08468",
+    "market_cap": "$164.5M",
+    "stats": {
+      "fdv": "$164.5M",
+      "volume": "$8.63M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "48 Club Token",
+    "symbol": "KOGE",
+    "price": "$48.02",
+    "market_cap": "$162.71M",
+    "stats": {
+      "fdv": "$162.71M",
+      "volume": "$1.11B",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "price": "$4,799.32",
+    "market_cap": "$162.59M",
+    "stats": {
+      "fdv": "$175.87M",
+      "volume": "$20.41M",
+      "ratio": 0.924489679877182
+    }
+  },
+  {
+    "name": "Nervos Network",
+    "symbol": "CKB",
+    "price": "$0.003424",
+    "market_cap": "$162.5M",
+    "stats": {
+      "fdv": "$165.07M",
+      "volume": "$5.99M",
+      "ratio": 0.9844308475192343
+    }
+  },
+  {
+    "name": "Ultima",
+    "symbol": "ULTIMA",
+    "price": "$4,271.01",
+    "market_cap": "$159.77M",
+    "stats": {
+      "fdv": "$427.1M",
+      "volume": "$16.96M",
+      "ratio": 0.374081011472723
+    }
+  },
+  {
+    "name": "Bio Protocol",
+    "symbol": "BIO",
+    "price": "$0.09052",
+    "market_cap": "$160.13M",
+    "stats": {
+      "fdv": "$300.52M",
+      "volume": "$48.67M",
+      "ratio": 0.5328430720085185
+    }
+  },
+  {
+    "name": "SushiSwap",
+    "symbol": "SUSHI",
+    "price": "$0.5552",
+    "market_cap": "$158.46M",
+    "stats": {
+      "fdv": "$158.86M",
+      "volume": "$44.97M",
+      "ratio": 0.9974820596751857
+    }
+  },
+  {
+    "name": "Popcat (SOL)",
+    "symbol": "POPCAT",
+    "price": "$0.1582",
+    "market_cap": "$155.07M",
+    "stats": {
+      "fdv": "$155.07M",
+      "volume": "$42.62M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Astar",
+    "symbol": "ASTR",
+    "price": "$0.01887",
+    "market_cap": "$154.61M",
+    "stats": {
+      "fdv": "$161.03M",
+      "volume": "$11.61M",
+      "ratio": 0.9601316524871142
+    }
+  },
+  {
+    "name": "Shuffle",
+    "symbol": "SHFL",
+    "price": "$0.4514",
+    "market_cap": "$152.78M",
+    "stats": {
+      "fdv": "$431.6M",
+      "volume": "$1.36M",
+      "ratio": 0.353985171455051
+    }
+  },
+  {
+    "name": "Succinct",
+    "symbol": "PROVE",
+    "price": "$0.7858",
+    "market_cap": "$153.24M",
+    "stats": {
+      "fdv": "$785.87M",
+      "volume": "$121.69M",
+      "ratio": 0.19499408299082546
+    }
+  },
+  {
+    "name": "Ravencoin",
+    "symbol": "RVN",
+    "price": "$0.009772",
+    "market_cap": "$153.39M",
+    "stats": {
+      "fdv": "$205.22M",
+      "volume": "$9.3M",
+      "ratio": 0.7474417698080109
+    }
+  },
+  {
+    "name": "Avantis",
+    "symbol": "AVNT",
+    "price": "$0.5884",
+    "market_cap": "$151.94M",
+    "stats": {
+      "fdv": "$588.46M",
+      "volume": "$91.58M",
+      "ratio": 0.25819936784148456
+    }
+  },
+  {
+    "name": "Lombard",
+    "symbol": "BARD",
+    "price": "$0.6713",
+    "market_cap": "$151.06M",
+    "stats": {
+      "fdv": "$671.38M",
+      "volume": "$38.05M",
+      "ratio": 0.2249992552652745
+    }
+  },
+  {
+    "name": "Mina",
+    "symbol": "MINA",
+    "price": "$0.1195",
+    "market_cap": "$150.28M",
+    "stats": {
+      "fdv": "$150.28M",
+      "volume": "$17.08M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "VVS Finance",
+    "symbol": "VVS",
+    "price": "$0.0 5 3175",
+    "market_cap": "$148.52M",
+    "stats": {
+      "fdv": "$317.51M",
+      "volume": "$761.45K",
+      "ratio": 0.4677647948096123
+    }
+  },
+  {
+    "name": "Rekt (rektcoin.com)",
+    "symbol": "REKT",
+    "price": "$0.0 6 5303",
+    "market_cap": "$147.97M",
+    "stats": {
+      "fdv": "$223.1M",
+      "volume": "$1.69M",
+      "ratio": 0.6632451815329449
+    }
+  },
+  {
+    "name": "MANTRA",
+    "symbol": "OM",
+    "price": "$0.1365",
+    "market_cap": "$148.75M",
+    "stats": {
+      "fdv": "$232.93M",
+      "volume": "$168.98M",
+      "ratio": 0.6386038724080195
+    }
+  },
+  {
+    "name": "Metaplex",
+    "symbol": "MPLX",
+    "price": "$0.2448",
+    "market_cap": "$143.58M",
+    "stats": {
+      "fdv": "$244.8M",
+      "volume": "$8.6M",
+      "ratio": 0.5865196078431373
+    }
+  },
+  {
+    "name": "STASIS EURO",
+    "symbol": "EURS",
+    "price": "$1.15",
+    "market_cap": "$142.86M",
+    "stats": {
+      "fdv": "$142.86M",
+      "volume": "$0.01111 0",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "WhiteRock",
+    "symbol": "WHITE",
+    "price": "$0.0002195",
+    "market_cap": "$142.67M",
+    "stats": {
+      "fdv": "$219.5M",
+      "volume": "$339.77K",
+      "ratio": 0.6499772209567198
+    }
+  },
+  {
+    "name": "Peanut the Squirrel",
+    "symbol": "PNUT",
+    "price": "$0.1428",
+    "market_cap": "$142.8M",
+    "stats": {
+      "fdv": "$142.8M",
+      "volume": "$50.32M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Oasis",
+    "symbol": "ROSE",
+    "price": "$0.01922",
+    "market_cap": "$142.49M",
+    "stats": {
+      "fdv": "$192.21M",
+      "volume": "$7.87M",
+      "ratio": 0.7413245928931897
+    }
+  },
+  {
+    "name": "Blur",
+    "symbol": "BLUR",
+    "price": "$0.05490",
+    "market_cap": "$140.42M",
+    "stats": {
+      "fdv": "$164.71M",
+      "volume": "$19.32M",
+      "ratio": 0.8525286867828304
+    }
+  },
+  {
+    "name": "SPACE ID",
+    "symbol": "ID",
+    "price": "$0.1167",
+    "market_cap": "$138.36M",
+    "stats": {
+      "fdv": "$233.4M",
+      "volume": "$13.71M",
+      "ratio": 0.59280205655527
+    }
+  },
+  {
+    "name": "ZIGChain",
+    "symbol": "ZIG",
+    "price": "$0.09699",
+    "market_cap": "$136.65M",
+    "stats": {
+      "fdv": "$189.51M",
+      "volume": "$1.6M",
+      "ratio": 0.7210701282254235
+    }
+  },
+  {
+    "name": "Threshold",
+    "symbol": "T",
+    "price": "$0.01266",
+    "market_cap": "$136.59M",
+    "stats": {
+      "fdv": "$141.29M",
+      "volume": "$5.12M",
+      "ratio": 0.9667350838700545
+    }
+  },
+  {
+    "name": "Keeta",
+    "symbol": "KTA",
+    "price": "$0.3129",
+    "market_cap": "$134.91M",
+    "stats": {
+      "fdv": "$312.94M",
+      "volume": "$7.33M",
+      "ratio": 0.43110500415415093
+    }
+  },
+  {
+    "name": "Aleo",
+    "symbol": "ALEO",
+    "price": "$0.2326",
+    "market_cap": "$133.95M",
+    "stats": {
+      "fdv": "$428.59M",
+      "volume": "$46.54M",
+      "ratio": 0.31253645675354064
+    }
+  },
+  {
+    "name": "Gems",
+    "symbol": "GEMS",
+    "price": "$0.2245",
+    "market_cap": "$134.47M",
+    "stats": {
+      "fdv": "$189.36M",
+      "volume": "$3.75M",
+      "ratio": 0.7101288550908322
+    }
+  },
+  {
+    "name": "BitMart Token",
+    "symbol": "BMX",
+    "price": "$0.4097",
+    "market_cap": "$132.88M",
+    "stats": {
+      "fdv": "$361.29M",
+      "volume": "$5.91M",
+      "ratio": 0.3677931855296299
+    }
+  },
+  {
+    "name": "Frax (prev. FXS)",
+    "symbol": "FRAX",
+    "price": "$1.46",
+    "market_cap": "$132.51M",
+    "stats": {
+      "fdv": "$145.91M",
+      "volume": "$13.14M",
+      "ratio": 0.908162565965321
+    }
+  },
+  {
+    "name": "XPR Network",
+    "symbol": "XPR",
+    "price": "$0.004683",
+    "market_cap": "$131.5M",
+    "stats": {
+      "fdv": "$145.2M",
+      "volume": "$3.74M",
+      "ratio": 0.9056473829201102
+    }
+  },
+  {
+    "name": "Alchemy Pay",
+    "symbol": "ACH",
+    "price": "$0.01370",
+    "market_cap": "$131.59M",
+    "stats": {
+      "fdv": "$137.02M",
+      "volume": "$16.91M",
+      "ratio": 0.9603707487957962
+    }
+  },
+  {
+    "name": "Elixir deUSD",
+    "symbol": "DEUSD",
+    "price": "$1.00",
+    "market_cap": "$129.71M",
+    "stats": {
+      "fdv": "$129.71M",
+      "volume": "$3.82M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "Centrifuge",
+    "symbol": "CFG",
+    "price": "$0.2305",
+    "market_cap": "$130.57M",
+    "stats": {
+      "fdv": "$156.77M",
+      "volume": "$2.59M",
+      "ratio": 0.8328761880461824
+    }
+  },
+  {
+    "name": "AUSD",
+    "symbol": "AUSD",
+    "price": "$1.00",
+    "market_cap": "$128.92M",
+    "stats": {
+      "fdv": "$128.92M",
+      "volume": "$23.48M",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "CoW Protocol",
+    "symbol": "COW",
+    "price": "$0.2428",
+    "market_cap": "$127.56M",
+    "stats": {
+      "fdv": "$242.8M",
+      "volume": "$6.04M",
+      "ratio": 0.5253706754530478
+    }
+  },
+  {
+    "name": "IoTeX",
+    "symbol": "IOTX",
+    "price": "$0.01340",
+    "market_cap": "$126.56M",
+    "stats": {
+      "fdv": "$134.05M",
+      "volume": "$17.57M",
+      "ratio": 0.9441253263707571
+    }
+  },
+  {
+    "name": "ZetaChain",
+    "symbol": "ZETA",
+    "price": "$0.1180",
+    "market_cap": "$126.54M",
+    "stats": {
+      "fdv": "$247.87M",
+      "volume": "$12.14M",
+      "ratio": 0.5105095412918061
+    }
+  },
+  {
+    "name": "Fellaz",
+    "symbol": "FLZ",
+    "price": "$0.2663",
+    "market_cap": "$125.68M",
+    "stats": {
+      "fdv": "$532.68M",
+      "volume": "$3.35M",
+      "ratio": 0.2359390253059999
+    }
+  },
+  {
+    "name": "Yala",
+    "symbol": "YU",
+    "price": "$0.9996",
+    "market_cap": "$123.86M",
+    "stats": {
+      "fdv": "$15.99M",
+      "volume": "$12.39K",
+      "ratio": 7.746091307066917
+    }
+  },
+  {
+    "name": "Rollbit Coin",
+    "symbol": "RLB",
+    "price": "$0.06497",
+    "market_cap": "$122.73M",
+    "stats": {
+      "fdv": "$122.73M",
+      "volume": "$252.78K",
+      "ratio": 1.0
+    }
+  },
+  {
+    "name": "SKALE",
+    "symbol": "SKL",
+    "price": "$0.02037",
+    "market_cap": "$122.87M",
+    "stats": {
+      "fdv": "$142.64M",
+      "volume": "$45.96M",
+      "ratio": 0.861399326977005
+    }
+  },
+  {
+    "name": "ApeX Protocol",
+    "symbol": "APEX",
+    "price": "$0.9079",
+    "market_cap": "$121.05M",
+    "stats": {
+      "fdv": "$453.99M",
+      "volume": "$21.1M",
+      "ratio": 0.26663582898301724
+    }
+  },
+  {
+    "name": "aelf",
+    "symbol": "ELF",
+    "price": "$0.1533",
+    "market_cap": "$121.77M",
+    "stats": {
+      "fdv": "$152.83M",
+      "volume": "$4.58M",
+      "ratio": 0.7967676503304325
+    }
+  },
+  {
+    "name": "Siacoin",
+    "symbol": "SC",
+    "price": "$0.002175",
+    "market_cap": "$121.88M",
+    "stats": {
+      "fdv": "$134.32M",
+      "volume": "$6.2M",
+      "ratio": 0.9073853484216796
+    }
+  },
+  {
+    "name": "YZY MONEY",
+    "symbol": "YZY",
+    "price": "$0.4054",
+    "market_cap": "$121.62M",
+    "stats": {
+      "fdv": "$405.42M",
+      "volume": "$5.38M",
+      "ratio": 0.2999852005327808
+    }
+  },
+  {
+    "name": "DigiByte",
+    "symbol": "DGB",
+    "price": "$0.006834",
+    "market_cap": "$122.68M",
+    "stats": {
+      "fdv": "$143.51M",
+      "volume": "$3.47M",
+      "ratio": 0.8548533203261097
+    }
+  },
+  {
+    "name": "SLT",
+    "symbol": "SLT",
+    "price": "$14.18",
+    "market_cap": "$120.6M",
+    "stats": {
+      "fdv": "$1.41B",
+      "volume": "$390.3K",
+      "ratio": 0.08553191489361703
+    }
+  },
+  {
+    "name": "Grass",
+    "symbol": "GRASS",
+    "price": "$0.4951",
+    "market_cap": "$120.76M",
+    "stats": {
+      "fdv": "$495.15M",
+      "volume": "$35.84M",
+      "ratio": 0.24388569120468545
+    }
+  },
+  {
+    "name": "peaq",
+    "symbol": "PEAQ",
+    "price": "$0.08748",
+    "market_cap": "$120.94M",
+    "stats": {
+      "fdv": "$378.93M",
+      "volume": "$11.41M",
+      "ratio": 0.31916185047370227
+    }
+  },
+  {
+    "name": "Holo",
+    "symbol": "HOT",
+    "price": "$0.0006829",
+    "market_cap": "$119.53M",
+    "stats": {
+      "fdv": "$121.29M",
+      "volume": "$6.28M",
+      "ratio": 0.9854893231099019
+    }
+  },
+  {
+    "name": "币安人生",
+    "symbol": "币安人生",
+    "price": "$0.1180",
+    "market_cap": "$118.08M",
+    "stats": {
+      "fdv": "$118.08M",
+      "volume": "$52.13M",
+      "ratio": 1.0
+    }
+  }
+]

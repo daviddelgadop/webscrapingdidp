@@ -43,7 +43,7 @@ htmlcov/
 ecole_data/
 data/
 database/
-*.json
+
 
 # ==========================
 # BUILDS & PACKAGING
@@ -69,8 +69,7 @@ var/
 docs/_build/
 *.pdf
 *.docx
-*.zip
-*.rar
+
 
 # ==========================
 # SYSTEME / OS
